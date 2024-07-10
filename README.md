@@ -4,12 +4,11 @@ My personal website built with [Astro](https://astro.build) and [Tailwind CSS](h
 
 ## 🚀 How to Use
 
-1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.
+1. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.
    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+2. Edit the config file `src/config.ts` to customize your blog.
+3. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
+4. `pnpm preview`
 
 ## ⚙️ Frontmatter of Posts
 
