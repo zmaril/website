@@ -63,4 +63,6 @@ export const licenseConfig: LicenseConfig = {
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
 
-export const LIGHT_DARK_MODE = DARK_MODE; 
+
+
+export const mode = DARK_MODE; 

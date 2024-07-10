@@ -2,7 +2,7 @@
 title: Back at it again
 published: 2024-07-10
 description: Blogging's so hot right now.
-tags: []
+tags: [Meta, Writing]
 category: Writing
 draft: false
 ---
