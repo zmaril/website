@@ -1,4 +1,3 @@
-import { DARK_MODE } from '@constants/constants'
 import type {
   LicenseConfig,
   NavBarConfig,
@@ -62,7 +61,3 @@ export const licenseConfig: LicenseConfig = {
   name: 'CC BY-NC-SA 4.0',
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
-
-
-
-export const mode = DARK_MODE; 
