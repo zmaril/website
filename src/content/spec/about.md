@@ -1,9 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Hello, I'm Zack Maril and this is my personal website. I am an American living in Washington, DC and I will soon be moving to Salzburg, Austria. I have a wide range of interests including [chess](https://www.schachzeit.com/), [dancing](https://zacksdancelab.com/), cooking, databases, system realiability engineering, learning languages and [the political economy of web crawling](https://www.nytimes.com/2020/12/14/technology/how-google-dominates.html). I am currently learning German and Zouk.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+You can contact me via email at [zack@zacharymaril.com](mailto:zack@zacharymaril.com) or via twitter at [@zackmaril](https://twitter.com/zackmaril). I'll put a resume up here soon as well. The source code for this website can be found on Github. It was built with [fuwari](https://github.com/saicaca/fuwari).
+
+::github{repo="zmaril/website"}

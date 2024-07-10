@@ -1,0 +1,4 @@
+- [ ] Add in comments somehow
+- [ ] Add in a TOC feature somehow
+- [ ] Deploy this
+- [ ] Add in a resume
